@@ -1,0 +1,39 @@
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+E:\ДЗ\на заказ\Курсач телефонный справочник\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+E:\ДЗ\на заказ\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+E:\ДЗ\на заказ\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+E:\ДЗ\на заказ\Курсач телефонный справочник\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+E:\ДЗ\на заказ\Курсач телефонный справочник\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+E:\ДЗ\на заказ\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+E:\ДЗ\на заказ\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+E:\ДЗ\на заказ\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+E:\ДЗ\на заказ\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\SoBR\Desktop\Курсач телефонный справочник\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\SoBR\Desktop\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\SoBR\Desktop\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\SoBR\Desktop\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\SoBR\Desktop\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\SoBR\Desktop\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\SoBR\Desktop\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\SoBR\Desktop\Курсач телефонный справочник\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\SoBR\Desktop\Курсач телефонный справочник\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\SoBR\Desktop\Курсвовая работа\Курсач телефонный справочник\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\SoBR\Desktop\Курсвовая работа\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\SoBR\Desktop\Курсвовая работа\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\SoBR\Desktop\Курсвовая работа\Курсач телефонный справочник\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\SoBR\Desktop\Курсвовая работа\Курсач телефонный справочник\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\SoBR\Desktop\Курсвовая работа\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\SoBR\Desktop\Курсвовая работа\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\SoBR\Desktop\Курсвовая работа\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\SoBR\Desktop\Курсвовая работа\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\SoBR\Desktop\2курс\Курсовая\Курсвовая работа на 4\Курсач телефонный справочник\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\SoBR\Desktop\2курс\Курсовая\Курсвовая работа на 4\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\SoBR\Desktop\2курс\Курсовая\Курсвовая работа на 4\Курсач телефонный справочник\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
